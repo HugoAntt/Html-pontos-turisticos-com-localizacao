@@ -3,7 +3,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-Aplicação upada no netlify.app: https://subtle-figolla-f386fe.netlify.app/
+Aplicação upada no netlify.app: https://subtle-figolla-f386fe.netlify.app/(Há de ser atualizada)
 
 Credits:
 
